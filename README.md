@@ -13,7 +13,7 @@ Actualmente estoy cursando el segundo año de DAM, donde he adquirido conocimien
   <img src="https://img.shields.io/badge/C%23-%23F7DF1E.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-%23F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS3-%23F7DF1E.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/PHP-%23F7DF1E.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MariaDB-%23F7DF1E.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/SQLite-%23F7DF1E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
